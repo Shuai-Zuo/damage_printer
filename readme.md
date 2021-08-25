@@ -1,0 +1,1 @@
+This is a plugin based on sourcepawn which can print damages on the end of a round.
